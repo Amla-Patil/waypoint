@@ -1,0 +1,6 @@
+[
+ {"id": "ml_engineer", "jd": "Machine Learning Engineer\nRequired: Python, PyTorch, scikit-learn, feature engineering\nMust have experience with Docker and MLflow\nNice to have: Kubernetes"},
+ {"id": "data_scientist", "jd": "Data Scientist\nRequired: Python, SQL, statistics, pandas\nMust have experience with model evaluation and A/B testing\nNice to have: Tableau"},
+ {"id": "devops_engineer", "jd": "DevOps Engineer\nRequired: Docker, Kubernetes, Terraform, CI/CD\nMust have experience with AWS and Linux\nNice to have: Prometheus, Grafana"},
+ {"id": "warehouse_ops", "jd": "Operations Manager\nRequired: warehouse management, inventory management, supply chain\nMust have experience with people management and WMS\nNice to have: lean, six sigma"}
+]

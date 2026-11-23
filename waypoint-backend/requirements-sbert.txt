@@ -1,0 +1,2 @@
+# Install for the intended semantic backend (downloads model weights on first run):
+sentence-transformers
